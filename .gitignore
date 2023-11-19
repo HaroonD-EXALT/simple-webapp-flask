@@ -1,0 +1,6 @@
+# Ignore Docker images
+*.tar
+*.gz
+
+# Ignore Docker build logs
+*.log
